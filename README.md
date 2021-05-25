@@ -1,9 +1,8 @@
 # LRP_MITBIH_Arrhythmia
+### LRP tool (https://github.com/sebastian-lapuschkin/lrp_toolbox)
+### Arrhythmia dataset by preprocessing(https://www.kaggle.com/shayanfazeli/heartbeat)
 
 XAI 알고리즘 중 하나인 LRP 알고리즘을 이용하여 Arrhythmia detection을 한 내용이다.
-
-LRP tool (https://github.com/sebastian-lapuschkin/lrp_toolbox)
-Arrhythmia dataset by preprocessing(https://www.kaggle.com/shayanfazeli/heartbeat)
 
 LRP tool에서는 example로 이미지를 사용하였기 때문에 CNN의 경우 filter size = 4 * 1 등으로 사용하였다.
 
