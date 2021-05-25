@@ -1,4 +1,4 @@
-# LRP_MITBIH_Arrhythmia
+# LRP_Arrhythmia
 ### LRP tool (https://github.com/sebastian-lapuschkin/lrp_toolbox)
 ### Arrhythmia dataset by preprocessing(https://www.kaggle.com/shayanfazeli/heartbeat)
 
